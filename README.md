@@ -12,12 +12,12 @@ I'm a passionate data analyst with a strong background in Python, R, SQL, Micros
 - **Business Analysis**: Market research, Competitive analysis, Strategic planning
 - **Data Visualization**: Matplotlib, Seaborn, ggplot2, Plotly
 - **Machine Learning**: Scikit-Learn, Tenserflow
-- **Data Cleaning and Manipulation**: Data wrangling, Data PreProcessing
+- **Data Cleaning and Manipulation**: Data wrangling, Data PreProcessing , Web Scrapping
 - **Database Management**: MySQL, PostgreSQL
 - **Version Control**: Git
 
 ### Education
-- MBAin Business Analytics from School Of Data Science and Forecasting , Devi Ahilya Vishwavidyalaya , Indore, 2022-2024
+- MBA in Business Analytics from School Of Data Science and Forecasting , Devi Ahilya Vishwavidyalaya , Indore, 2022-2024
 
 ### Contact
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/govind-sapkade-845104225)
