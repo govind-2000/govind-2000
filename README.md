@@ -17,7 +17,7 @@ I'm a passionate data analyst with a strong background in Python, R, SQL, Micros
 - **Version Control**: Git
 
 ### Education
-- [MBA] in [Business Analytics] from [School Of Data Science and Forecasting , Devi Ahilya Vishwavidyalaya , Indore], [2024]
+- MBAin Business Analytics from School Of Data Science and Forecasting , Devi Ahilya Vishwavidyalaya , Indore, 2022-2024
 
 ### Contact
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/govind-sapkade-845104225)
