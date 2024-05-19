@@ -1,19 +1,19 @@
 ## Hello There ! I am Govind Sapkade
-## Data Analyst | Python | R | SQL | Excel | Power BI | Statistics | Business Analytics
+## Python | Numpy | Pandas | SQL | Microsoft Excel | Power BI | DAX | Statistics | Business Analysis | Data Analysis
 
 ### About Me
-I'm a passionate data analyst with a strong background in Python, R, SQL, Microsoft Excel, Power BI, statistics, and business analysis. I'm dedicated to extracting valuable insights from data to drive informed decision-making and solve real-world problems.
+I'm a passionate data analyst with a strong background in Python, Numpy , Pandas , SQL , Microsoft Excel, Power BI, DAX , statistics, and business analysis. I'm dedicated to extracting valuable insights from data to drive informed decision-making and solve real-world problems.
 
 ### Skills
 
-- **Languages**: Python, R, SQL
+- **Languages**: Python , SQL , DAX
 - **Data Analysis Tools**: Microsoft Excel, Power BI
 - **Statistics**: Hypothesis testing, Regression analysis, Data visualization
 - **Business Analysis**: Market research, Competitive analysis, Strategic planning
-- **Data Visualization**: Matplotlib, Seaborn, ggplot2, Plotly
+- **Data Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-Learn, Tenserflow
 - **Data Cleaning and Manipulation**: Data wrangling, Data PreProcessing , Web Scrapping
-- **Database Management**: MySQL, PostgreSQL
+- **Database Management**: MySQL, PostgreSQL , SQL Server
 - **Version Control**: Git
 
 ### Education
