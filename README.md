@@ -20,8 +20,8 @@ I'm a passionate data analyst with a strong background in Python, Numpy , Pandas
 - MBA in Business Analytics from School Of Data Science and Forecasting , Devi Ahilya Vishwavidyalaya , Indore, 2022-2024
 
 ### Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/govind-sapkade-845104225)
-- Email: [Your Email Address](govindsapkade42@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/govind-sapkade-845104225)
+- Email: (govindsapkade42@gmail.com)
 
 ### Let's Connect
 Feel free to connect with me on LinkedIn or contact me via email. I'm open to collaboration, discussions, and learning opportunities. Let's explore the data world together!
